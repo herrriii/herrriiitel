@@ -32,14 +32,10 @@ Pygments==2.4.2
 pyinstall==0.1.4
 PyInstaller==3.5
 pyOpenSSL==19.0.0
-pyowm==2.10.0
-pypiwin32==223
 PySocks==1.7.0
 pyTelegramBotAPI==3.6.6
 pyttsx3==2.71
 pyweatherbit==2.0.0
-pywin32==224
-pywin32-ctypes==0.2.0
 requests==2.7.0
 responses==0.10.6
 service-identity==18.1.0
