@@ -29,7 +29,7 @@ PySocks==1.7.0
 pyTelegramBotAPI==3.6.6
 pyttsx3==2.71
 
-requests==2.7.0
+requests==2.20.0
 responses==0.10.6
 service-identity==18.1.0
 
