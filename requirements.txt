@@ -16,7 +16,7 @@ fuzzywuzzy==0.17.0
 geojson==2.5.0
 greenlet==0.4.15
 idna==2.8
-ipython==7.7.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 
 
